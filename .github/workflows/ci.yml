@@ -1,4 +1,4 @@
-name: Workflow Dispatch CI
+name: Tim's Workflow Dispatch CI
 
 on:
   workflow_dispatch:
